@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/Kalvin520/Kalvin520/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="">
 <img src="https://raw.githubusercontent.com/Kalvin520/Kalvin520/master/profile-summary-card-output/solarized/3-stats.svg" alt="">
 <img src="https://raw.githubusercontent.com/Kalvin520/Kalvin520/master/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="">
-<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaivin520&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
+<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalvin520&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
     &nbsp;&nbsp;
 </div>
 
