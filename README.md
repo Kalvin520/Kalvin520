@@ -1,7 +1,7 @@
 # 🖐️ 哈囉！日安  [![Followers](https://img.shields.io/github/followers/Kalvin520?style=flat-square)](https://github.com/Kalvin520)  
 - 本名: 姚佳凱
 - 常用網名: Kalvin
-- 警常使用的語言工具及資料庫：**Java**、**MySQL**、**HTML**、**CSS**、**Python**、**C++**
+- 目前較常使用的語言工具及資料庫：**Java**、**MySQL**、**HTML**、**CSS**、**Python**、**C++**
 - 高科大資管系大二
 - [高科大網路位元組]([https://ckcsc.net](https://www.facebook.com/NetworksBYTE/)) 擔任 `111網管`
 
