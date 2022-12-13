@@ -1,4 +1,6 @@
 # 🖐️ 哈囉！日安  [![Followers](https://img.shields.io/github/followers/Kalvin520?style=flat-square)](https://github.com/Kalvin520)  
+# Hi 👋, I'm Kalvin
+### Hello everyone, my name is Kalvin, I am a college student. I love learning new technologies and networking skills. I want to leave Taiwan in the future. I want to work in other countries, talk to all kinds of people, and learn more about the world 😸.
 - 本名: 姚佳凱
 - 常用網名: Kalvin
 - 目前較常使用的語言工具及資料庫：**Java**、**MySQL**、**HTML**、**CSS**、**Python**、**C++**
@@ -15,8 +17,34 @@
 <img src="https://raw.githubusercontent.com/Kalvin520/Kalvin520/master/profile-summary-card-output/solarized/3-stats.svg" alt="">
 <img src="https://raw.githubusercontent.com/Kalvin520/Kalvin520/master/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalvin520&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
-    &nbsp;&nbsp;
+&nbsp;&nbsp;
 </div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalvin520&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalvin520&theme=monokai)
+
+
+## 🤓 My values
+🍏 Beginner's mindset and curiosity<br>
+🙌 Sharing anything I learned<br>
+
+## 🔭 Goals of 2022
+
+I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2022 💪. I also want to contribute more open source projects make I can improve my skills of program.
+
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- Java (skilled)
+- MySQL (basic)
+- C++ (basic)
+- Python (basic)
+- HTML5 (bacic)
+- CSS3 (basic)
+
+### 🔧 Tool
+- Version Control(Git/it-Flow)
+- Test Driven Developer
+- Open Source Projects
 
 # 🛠 作品
 - 開發中請稍候.....(目前都是一些上課用到的工具或練習) 
