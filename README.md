@@ -36,6 +36,7 @@ I want to learn English. Now I watch English youtube channels and articles every
 ### 📚 Langues and Frameworks
 - Java (skilled)
 - MySQL (basic)
+- PHP (basic)
 - C++ (basic)
 - Python (basic)
 - HTML5 (bacic)
