@@ -55,3 +55,8 @@ I want to learn English. Now I watch English youtube channels and articles every
 - mail: [yaojaikai520@gmail.com](mailto:yaojaikai520@gmail.com)
 - Discord id: Kalvin_晴#0430
 - telegram: [@Kalvin_0205](https://t.me/Kalvin_0205)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaojaikai520@gmail.com)
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zJfgvwC9Ny)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006801872461)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalvin520)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
