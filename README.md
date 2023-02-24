@@ -3,9 +3,9 @@
 ### Hello everyone, my name is Kalvin, I am a college student. I love learning new technologies and networking skills. I want to leave Taiwan in the future. I want to work in other countries, talk to all kinds of people, and learn more about the world 😸.
 - 本名: 佳凱
 - 常用網名: Kalvin, ㄐㄎ
-- 目前較常使用的語言工具及資料庫：**Java**、**PHP**、**MySQL**、**HTML**、**CSS**、**Python**、**C++**
-- 高科大資管系大二
-- [高科大網路位元組]([https://ckcsc.net](https://www.facebook.com/NetworksBYTE/)) 擔任 `111網管`
+- 目前較常使用的語言工具及資料庫：**Java(Servlet, JSP, spring-boot 3)**、**PHP**、**MySQL**、**HTML**、**CSS*、**Javascript**、**Python**、**C++**
+- 高科大資管系二年級
+- [高科大網路位元組]([https://ckcsc.net](https://www.facebook.com/NetworksBYTE/)) 擔任 `110網路組副組長`
 
 
 ## ⚡ Technologies
@@ -43,6 +43,7 @@ I want to learn English. Now I watch English youtube channels and articles every
 - PHP (basic)
 - C++ (basic)
 - Python (basic)
+- Javascript (basic)
 - HTML5 (bacic)
 - CSS3 (basic)
 - Spring boot
