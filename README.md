@@ -16,15 +16,10 @@
 
 
 ## 📊 Statistics
-<div align="center">
-<img src="https://raw.githubusercontent.com/Kalvin520/Kalvin520/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="">
-<img src="https://raw.githubusercontent.com/Kalvin520/Kalvin520/master/profile-summary-card-output/solarized/3-stats.svg" alt="">
-<img src="https://raw.githubusercontent.com/Kalvin520/Kalvin520/master/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalvin520&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
-&nbsp;&nbsp;
-</div>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalvin520&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalvin520&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalvin520&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalvin520&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalvin520&theme=monokai)
 
 
@@ -54,11 +49,10 @@ I want to learn English. Now I watch English youtube channels and articles every
 - Open Source Projects
 
 # 🛠 作品
-- 開發中請稍候.....(目前都是一些上課用到的工具或練習) 
+- 『 國立高雄科技大學創新創業中心設備使用申請系統 』
 
 # 📬 聯絡方式
 - mail: [yaojaikai520@gmail.com](mailto:yaojaikai520@gmail.com)
-- Discord id: Kalvin_晴#0430
 - telegram: [@Kalvin_0205](https://t.me/Kalvin_0205)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaojaikai520@gmail.com)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zJfgvwC9Ny)
