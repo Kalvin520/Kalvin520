@@ -2,7 +2,7 @@
 # Hi 👋, I'm Kalvin
 ### Hello everyone, my name is Kalvin, I am a college student. I love learning new technologies and networking skills. I want to leave Taiwan in the future. I want to work in other countries, talk to all kinds of people, and learn more about the world 😸.
 - 本名: 佳凱
-- 常用網名: Kalvin, ㄐㄎ
+- 常用網名: Kalvin, ㄐㄎ, Kuchiki
 - 目前較常使用的語言工具及資料庫：**Java(Servlet, JSP, spring-boot 3)**、**PHP**、**MySQL**、**HTML**、**CSS*、**Javascript**、**Python**、**C++**
 - 高科大資管系二年級
 - [[!高科大資管系網路組](https://ckcsc.net](https://www.facebook.com/NetworksBYTE/)] 擔任 `110網路組副組長`
