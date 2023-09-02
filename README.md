@@ -45,9 +45,6 @@ I want to learn English. Now I watch English youtube channels and articles every
 - Test Driven Developer
 - Open Source Projects
 
-# 🛠 作品
-- 『 國立高雄科技大學創新創業中心設備使用申請系統 』
-
 # 📬 聯絡方式
 - mail: [yaojaikai520@gmail.com](mailto:yaojaikai520@gmail.com)
 - telegram: [@Kalvin_0205](https://t.me/Kalvin_0205)
