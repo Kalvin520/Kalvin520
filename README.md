@@ -4,7 +4,7 @@
 
 - You can call me: Kalvin, ㄐㄎ
 - 目前較常使用的語言工具及資料庫：**Java(Servlet, JSP, spring-boot 3)**、**PHP**、**MySQL**、**HTML**、**CSS**、**Javascript**、**Python**、**C++**
-- GDSC NKUST Lead 
+- 2023-2024 GDSC NKUST Lead 
 - 高科大資管系三年級
 - [高科大資管系網路組](https://www.facebook.com/NetworksBYTE/?locale=en_GB&paipv=0&eav=AfaGdN4b_9axpBnuB-dmeVHwBwZlBaWVxJcna6oWFCgVntara9Q2bSiNJIzoAmghqVI&_rdr) 擔任 `110網路組副組長`
 
