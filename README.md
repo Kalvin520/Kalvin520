@@ -37,9 +37,10 @@ I want to learn English. Now I watch English youtube channels and articles every
 - C++ (basic)
 - Python (basic)
 - Javascript (basic)
-- HTML5 (bacic)
+- HTML5 (basic)
 - CSS3 (basic)
 - Spring boot
+- React.js (basic)
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
