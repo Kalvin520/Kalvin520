@@ -41,6 +41,7 @@ I want to learn English. Now I watch English youtube channels and articles every
 - CSS3 (basic)
 - Spring boot
 - React.js (basic)
+- Vue.js (basic)
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
