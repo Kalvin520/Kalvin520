@@ -9,7 +9,8 @@
 - [高科大資管系網路組](https://www.facebook.com/NetworksBYTE/?locale=en_GB&paipv=0&eav=AfaGdN4b_9axpBnuB-dmeVHwBwZlBaWVxJcna6oWFCgVntara9Q2bSiNJIzoAmghqVI&_rdr) 擔任 `110網路組副組長`
 
 
-## ⚡ Technologies
+## ⚡ Project
+React MOU備忘錄: https://kalvin520mou.netlify.app
 
 
 ## 📊 Statistics
@@ -24,7 +25,7 @@
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
 
-## 🔭 Goals of 2022
+## 🔭 Goals of 2024
 
 I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2022 💪. I also want to contribute more open source projects make I can improve my skills of program.
 
