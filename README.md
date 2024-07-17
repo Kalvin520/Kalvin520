@@ -3,7 +3,7 @@
 ### Hello everyone, my name is Kalvin, I am a college student. I love learning new technologies and networking skills. I want to leave Taiwan in the future. I want to work in other countries, talk to all kinds of people, and learn more about the world 😸.
 
 - You can call me: Kalvin, ㄐㄎ
-- 目前較常使用的語言工具及資料庫：**Java(Servlet, JSP, spring-boot 3)**、**PHP**、**MySQL**、**HTML**、**CSS(SCSS,SASS)**、**Javascript,Node.js,express.js,React(JSX)**、**Python**、**C++**
+- 目前較常使用的語言工具及資料庫：**Java(Servlet, JSP, spring-boot 3)**、**PHP**、**MySQL**、**HTML**、**CSS(SCSS,SASS)**、**Javascript、Node.js、express.js、React(JSX)**、**Python**、**C++**
 - [2023-2024 GDSC NKUST Lead](https://gdsc.community.dev/national-kaohsiung-university-of-science-and-technology/)
 - [2024-2025 GDSC NKUST Lead](https://gdsc.community.dev/national-kaohsiung-university-of-science-and-technology/)
 - 高科大資管系四年級
