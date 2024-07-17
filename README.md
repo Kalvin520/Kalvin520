@@ -15,6 +15,7 @@
 - React 圖片搜尋採pixelsAPI製作：https://kalvin-picture-search.netlify.app/
 - 美食搜尋網站 https://nkust-food.netlify.app/
 - 日本旅遊網 https://kalvin-jptravel.netlify.app/
+- 個人網站 https://kalvinbear.netlify.app/
 
 
 ## 📊 Statistics
