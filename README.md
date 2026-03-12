@@ -36,18 +36,18 @@ I want to learn English. Now I watch English youtube channels and articles every
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
-- Java (skilled)
-- MySQL (basic)
-- MSSQL (basic)
-- PHP (basic)
-- C++ (basic)
-- Python (basic)
-- Javascript (basic)
-- HTML5 (basic)
-- CSS3 (basic)
-- Spring boot
-- React.js (basic)
-- Vue.js (basic)
+- Java 
+- MySQL 
+- MSSQL 
+- PHP 
+- C++ 
+- Python 
+- Javascript
+- HTML5 
+- CSS3 
+- Spring boot 3
+- React.js 
+- Vue.js 
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
