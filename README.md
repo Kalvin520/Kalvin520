@@ -3,7 +3,6 @@
 ### Hello everyone, my name is Kalvin, I am a college student. I love learning new technologies and networking skills. I want to leave Taiwan in the future. I want to work in other countries, talk to all kinds of people, and learn more about the world 😸.
 
 - You can call me: Kalvin, ㄐㄎ
-- 目前較常使用的語言工具及資料庫：**Java(Servlet, JSP, spring-boot 3)**、**PHP**、**MySQL**、**HTML**、**CSS(SCSS,SASS)**、**Javascript、Node.js、express.js、React(JSX)**、**Python**、**C++**
 - [2023-2024 GDSC NKUST Lead](https://gdsc.community.dev/national-kaohsiung-university-of-science-and-technology/)
 - [2024-2025 GDSC NKUST Lead](https://gdsc.community.dev/national-kaohsiung-university-of-science-and-technology/)
 - 高科大資管系四年級
@@ -26,20 +25,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalvin520&theme=monokai)
 
 
-## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-🙌 Sharing anything I learned<br>
-
-## 🔭 Goals of 2024
-
-I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2022 💪. I also want to contribute more open source projects make I can improve my skills of program.
-
-## 🧠 That I know and use
 ### 📚 Langues and Frameworks
 - Java 
 - MySQL 
-- MSSQL 
-- PHP 
+- MongoDB
 - C++ 
 - Python 
 - Javascript
@@ -47,12 +36,13 @@ I want to learn English. Now I watch English youtube channels and articles every
 - CSS3 
 - Spring boot 3
 - React.js 
-- Vue.js 
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
 - Test Driven Developer
 - Open Source Projects
+- Google Stitch/Figma
+- Trello/Notion
 
 # 📬 聯絡方式
 - mail: [yaojaikai520@gmail.com](mailto:yaojaikai520@gmail.com)
