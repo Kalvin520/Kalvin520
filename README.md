@@ -5,9 +5,6 @@
 - You can call me: Kalvin, ㄐㄎ
 - [2023-2024 GDSC NKUST Lead](https://gdsc.community.dev/national-kaohsiung-university-of-science-and-technology/)
 - [2024-2025 GDSC NKUST Lead](https://gdsc.community.dev/national-kaohsiung-university-of-science-and-technology/)
-- 高科大資管系四年級
-- [高科大資管系網路組](https://www.facebook.com/NetworksBYTE/?locale=en_GB&paipv=0&eav=AfaGdN4b_9axpBnuB-dmeVHwBwZlBaWVxJcna6oWFCgVntara9Q2bSiNJIzoAmghqVI&_rdr) 擔任 `111網路組副組長`
-
 
 ## ⚡ Project
 - React MOU備忘錄: https://kalvin520mou.netlify.app
