@@ -6,7 +6,7 @@
   <a href="https://github.com/Kalvin520">
     <img src="https://img.shields.io/github/followers/Kalvin520?label=Followers&style=social" alt="GitHub followers"/>
   </a>
-  <p><em>🎓 Information Management | Developer | ☁️ Tech Enthusiast</em></p>
+  <p><em>🎓 Information Management & Master's Program in Electronic Engineering | Developer | ☁️ Tech Enthusiast</em></p>
 </div>
 
 ---
