@@ -34,7 +34,6 @@ Hello everyone! I'm Kalvin (you can also call me ㄐㄎ). I am passionate about 
 <br>
 <div align="center">
   <!-- GitHub 總數據與連續打卡紀錄並排 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kalvin520&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalvin520&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
