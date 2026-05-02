@@ -1,8 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=64&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kalvin;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kalvin;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
+  <!-- 訪客計數器 -->
+  <p><img src="https://komarev.com/ghpvc/?username=kalvin520&label=Profile+Views&color=36BCF7&style=flat-square" alt="kalvin520 views" /></p>
+  
   <a href="https://github.com/Kalvin520">
     <img src="https://img.shields.io/github/followers/Kalvin520?label=Followers&style=social" alt="GitHub followers"/>
   </a>
@@ -22,9 +25,22 @@ Hello everyone! I'm Kalvin (you can also call me ㄐㄎ). I am passionate about 
 
 ---
 
-### 🛠️ Languages & Technologies
+### 📈 GitHub Activity & Stats
 
-這裡我幫你把文字換成了酷炫的標籤，並且加入了更多進階技術！
+<div align="center">
+  <!-- 高級感滿分的動態活動折線圖 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalvin520&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="100%" alt="GitHub Activity Graph" />
+</div>
+<br>
+<div align="center">
+  <!-- GitHub 總數據與連續打卡紀錄並排 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kalvin520&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalvin520&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+### 🛠️ Languages & Technologies
 
 **Frontend & Design**
 <br>
@@ -67,13 +83,10 @@ Hello everyone! I'm Kalvin (you can also call me ㄐㄎ). I am passionate about 
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Language Usage
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalvin520&theme=tokyonight" width="100%" />
-</div>
-<br>
-<div align="center">
+  <!-- 語言比例與 Commit 分佈 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalvin520&theme=tokyonight" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalvin520&theme=tokyonight" width="48%" />
 </div>
