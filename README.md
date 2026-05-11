@@ -58,13 +58,27 @@ Hello everyone! I'm Kalvin (you can also call me ㄐㄎ). I am passionate about 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+
+**Cybersecurity & Networking (資訊安全與網路技術)**
+<br>
+<img src="https://img.shields.io/badge/ISO_27001_LA-00512C?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-1A3B8B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IoT_Security-4B0082?style=for-the-badge&logo=bluetooth&logoColor=white" />
+<img src="https://img.shields.io/badge/WiFi_Security-000000?style=for-the-badge&logo=wi-fi&logoColor=white" />
 
 **Database & Cloud (資料庫與雲端服務)**
 <br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
@@ -72,18 +86,21 @@ Hello everyone! I'm Kalvin (you can also call me ㄐㄎ). I am passionate about 
 <br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-430098?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Transformer-E34F26?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Mining-12CBC4?style=for-the-badge" />
 
 **OS, Environments & Tools (作業系統、環境與開發工具)**
 <br>
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
 ---
@@ -105,7 +122,7 @@ Hello everyone! I'm Kalvin (you can also call me ㄐㄎ). I am passionate about 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalvin520&theme=tokyonight" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalvin520&theme=tokyonight" width="48%" />
-</div>
+</div> 
 
 ---
 
