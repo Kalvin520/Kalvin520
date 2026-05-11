@@ -3,7 +3,6 @@
 </h1>
 
 <div align="center">
-  <!-- 訪客計數器 -->
   <p><img src="https://komarev.com/ghpvc/?username=kalvin520&label=Profile+Views&color=36BCF7&style=flat-square" alt="kalvin520 views" /></p>
   
   <a href="https://github.com/Kalvin520">
@@ -28,12 +27,10 @@ Hello everyone! I'm Kalvin (you can also call me ㄐㄎ). I am passionate about 
 ### 📈 GitHub Activity & Stats
 
 <div align="center">
-  <!-- 高級感滿分的動態活動折線圖 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalvin520&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="100%" alt="GitHub Activity Graph" />
 </div>
 <br>
 <div align="center">
-  <!-- GitHub 總數據與連續打卡紀錄並排 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalvin520&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
@@ -41,51 +38,71 @@ Hello everyone! I'm Kalvin (you can also call me ㄐㄎ). I am passionate about 
 
 ### 🛠️ Languages & Technologies
 
-**Frontend & Design**
+**Frontend & Design (前端與設計)**
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-**Backend & Database**
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-**AI, Data & Cybersecurity**
+**Backend & API (後端與介面)**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+
+**Database & Cloud (資料庫與雲端服務)**
+<br>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+**AI, Machine Learning & Data (人工智慧與數據)**
+<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
 
-**DevOps & Tools**
+**OS, Environments & Tools (作業系統、環境與開發工具)**
 <br>
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
 ---
 
 ### ⚡ Recent Projects
 
-*   📝 **[React MOU 備忘錄](https://kalvin520mou.netlify.app)** - React 開發的備忘錄應用程式。
-*   🖼️ **[圖片搜尋器](https://kalvin-picture-search.netlify.app/)** - 採用 Pexels API 製作的 React 圖片搜尋工具。
-*   🍔 **[美食搜尋網站](https://nkust-food.netlify.app/)** - 快速尋找美食的實用平台。
-*   ✈️ **[日本旅遊網](https://kalvin-jptravel.netlify.app/)** - 提供日本旅遊資訊與導覽的網站。
-*   🧑‍💻 **[個人網站](https://kalvinbear.netlify.app/)** - 我的個人作品集與介紹。
+* 📥 **[YT2MP4 影片下載器](https://github.com/Kalvin520/yt2mp4)** - 快速將 YouTube 影片轉換並下載為 MP4 的實用工具。
+* ⏳ **[TimeSync 時間同步工具](https://kalvin-timesync.vercel.app/#/)** - 輕量化且直覺的網頁版時間同步與管理應用。
+* 📝 **[React MOU 備忘錄](https://kalvin520mou.netlify.app)** - React 開發的備忘錄應用程式。
+* 🖼️ **[圖片搜尋器](https://kalvin-picture-search.netlify.app/)** - 採用 Pexels API 製作的 React 圖片搜尋工具。
+* 🍔 **[美食搜尋網站](https://nkust-food.netlify.app/)** - 快速尋找美食的實用平台。
+* ✈️ **[日本旅遊網](https://kalvin-jptravel.netlify.app/)** - 提供日本旅遊資訊與導覽的網站。
+* 🧑‍💻 **[個人網站](https://kalvinbear.netlify.app/)** - 我的個人作品集與介紹。
 
 ---
 
 ### 📊 Language Usage
 
 <div align="center">
-  <!-- 語言比例與 Commit 分佈 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalvin520&theme=tokyonight" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalvin520&theme=tokyonight" width="48%" />
 </div>
