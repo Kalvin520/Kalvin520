@@ -16,7 +16,7 @@
 Hello everyone! I'm Kalvin (you can also call me ㄐㄎ). I am passionate about learning new technologies, developing projects, and exploring network architecture and cybersecurity. My dream is to work globally, connect with diverse minds, and learn more about the world! 😸
 
 - 🔭 **Currently Focusing On:** AI/ML (LLMs, RAG, NLP, PyTorch), Cybersecurity, and Full-stack Development.
-- 🌟 **Leadership:** GDSC NKUST Lead (2023-2025).
+- 🌟 **Leadership:** GDSC NKUST Lead (2022,2023), GDG On Campus NKUST Orgnizer(2024).
 - 🏆 **Certifications & Achievements:** ISO 27001 Lead Auditor, 113 資安技能金盾獎進入決賽, 115 AIS3 MyFirstCTF 銅質獎.
 - 📫 **How to reach me:** Drop me an email or say hi on Discord!
 
