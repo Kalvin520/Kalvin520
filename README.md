@@ -18,7 +18,7 @@ Hello everyone! I'm Kalvin (you can also call me ㄐㄎ). I am passionate about 
 - 🔭 **Currently Focusing On:** AI/ML (LLMs, RAG, NLP, PyTorch), Cybersecurity, and Full-stack Development.
 - 🛠️ **Hardware Expertise:** Electronic Circuit Design, PCB Layout, IoT Systems, and 3D Prototyping & 3DPrinter.
 - 🌟 **Leadership:** GDSC NKUST Lead (2022,2023), GDG On Campus NKUST Orgnizer(2024).
-- 🏆 **Certifications & Achievements:** 高雄市政府 113資通安全稽核案 ISO 27001 Lead Auditor, 113 資安技能金盾獎進入決賽, 115 AIS3 MyFirstCTF 銅質獎.
+- 🏆 **Certifications & Achievements:** 高雄市政府 113資通安全稽核案 ISO 27001 Lead Auditor, 113 資安技能金盾獎進入決賽, 115 AIS3 MyFirstCTF 銅質獎, 115 AIS3 Advanced Information Security Summer School，新型態資安暑期課程 工業控制安全領域-最佳專題獎
 - 📫 **How to reach me:** Drop me an email or say hi on Discord!
 
 ---
